@@ -1,0 +1,1 @@
+docker buildx build --platform linux/amd64 -t m1theus/rinhabackendrust:latest . --push
